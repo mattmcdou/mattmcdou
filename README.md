@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am an electrical engineering student at the University of Calgary, passionate about embedded systems, computer hardware/firmware, and low-level programming.
 <!--
 **mattmcdou/mattmcdou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
